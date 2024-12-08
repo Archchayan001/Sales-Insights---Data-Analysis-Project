@@ -9,7 +9,7 @@ This project is a Power BI template designed to provide detailed insights into s
 - **Data Model**: Well-structured schema to support custom analyses.
 - **Custom Themes**: Pre-configured themes for consistent styling.
 
-```
+
 
 📊 Visualizations Included
 
@@ -26,9 +26,13 @@ This project is a Power BI template designed to provide detailed insights into s
 📥 How to Use
 
 1. **Download the Template**  
+
+
    Clone the repository or download the `.pbit` file.
 
    ```bash
+```
+
    git clone https://github.com/Archchayan001/Sales-Insights---Data-Analysis-Project.git
    ```
 
