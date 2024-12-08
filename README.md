@@ -30,7 +30,7 @@ This project is a Power BI template designed to provide detailed insights into s
 
    Clone the repository or download the `.pbit` file.
 
-   ```bash
+
 ```
 
    git clone https://github.com/Archchayan001/Sales-Insights---Data-Analysis-Project.git
