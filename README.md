@@ -11,25 +11,25 @@ This project is a Power BI template designed to provide detailed insights into s
 
 ```
 
-## 📊 Visualizations Included
+📊 Visualizations Included
 
 - **Sales Trends Over Time**
 - **Top-Selling Products**
 - **Regional Sales Distribution**
 - **Monthly and Quarterly Performance**
 
-## ⚙️ Requirements
+⚙️ Requirements
 
 - **Power BI Desktop** (latest version)
 - Sales data in a compatible format (CSV, Excel, SQL databases, etc.)
 
-## 📥 How to Use
+📥 How to Use
 
 1. **Download the Template**  
    Clone the repository or download the `.pbit` file.
 
    ```bash
-   git clone https://github.com/your-username/sales-insights.git
+   git clone https://github.com/Archchayan001/Sales-Insights---Data-Analysis-Project.git
    ```
 
 2. **Open in Power BI**  
